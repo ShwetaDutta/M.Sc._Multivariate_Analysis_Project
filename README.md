@@ -32,4 +32,4 @@ The progress of this project was maintained on a day to day basis through a **Pr
 4. Basic analysis for Modelling and Prediction was carried out using MANOVA and Multiple Regression. 
 5. For advanced analysis, applied time series techniques to forecast the future emission values of GHG.
 
-**Technology used: R**
+*Technology used:* **R**
